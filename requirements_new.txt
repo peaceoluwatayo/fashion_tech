@@ -7,3 +7,4 @@ langchain-groq
 unstructured
 unstructured[pdf]
 nltk
+waitress
